@@ -16,7 +16,7 @@
 
 ### 例外処理
 存在しない地名や料理のジャンルを答えると、例外処理を行う。
-<img src="https://github.com/aozam3/Restaurant/assets/65112280/b42156db-b24a-4d5d-bf78-fdab079270e6.png" width="600">
+<img src="https://github.com/aozam3/Restaurant/assets/65112280/b42156db-b24a-4d5d-bf78-fdab079270e6.png" width="800">
 
 ## Requirement
 * GCP(Google Cloud Platform)
